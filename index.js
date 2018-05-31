@@ -1,3 +1,3 @@
 exports.handler = function(event, context) {
-    context.done(null, 'Hello world test from Lambda');
+    context.done(null, 'Hello world demo from Lambda');
 };
